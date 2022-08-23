@@ -34,6 +34,7 @@
 - Springboot Framework
 
 ### My Socials
+- <a href="mailto:saidmsaid81@gmail.com">Send email</a>
 - LinkedIn: [saidmsaid81](https://linkedin.com/in/saidmsaid81)
 -  Twitter: [@saidmsaid81](https://twitter.com/saidmsaid81)
 
