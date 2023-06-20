@@ -7,7 +7,7 @@
 ### My Projects
 
 - Sunnah Assistant Android App [Github](https://github.com/saidmsaid81/SunnahAssistant) | [Google Play Store](https://play.google.com/store/apps/details?id=com.thesunnahrevival.sunnahassistant)
-- Vaccine Management System [Live Demo](https://nakuru-vms.herokuapp.com/)
+- Vaccine Management System [Live Demo](https://nakuru-vms.up.railway.app/)
 - Minimal Weather [Github](https://github.com/saidmsaid81/Minimal-Weather)
 
 ### My Skill Set  
